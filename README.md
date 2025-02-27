@@ -1,26 +1,21 @@
 # Hi, I'm Calvin! 👋
 
-Welcome to my GitHub profile! I’m a passionate Web3 and blockchain developer from China. Currently exploring Ethereum development and Solidity. Feel free to check out my projects below!
+Hi 👋! I’m Calvin, a Smart Contract developer dedicated to the Ethereum ecosystem.
+
+I have a deep passion for philosophy, and as I’ve witnessed humanity slowly reshaping the subconscious through reason to create a better world, I discovered blockchain technology. I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Java, Solidity, TypeScript
-- **Blockchain**: Ethereum, Smart Contracts, Web3.js, Viem
-- **Tools**: Foundry, Anvil, Hardhat
-- **Frontend**: React, Next.js
+- **Programming Languages**: Solidity, Java, Go, TypeScript
+- **Blockchain**: Ethereum, Smart Contracts, Web3.js, ether.js, Viem
+- **Tools**: Foundry, Anvil
 - **Version Control**: Git, GitHub
 
 ## 🚀 Current Projects
 
-- **Web3 Project**: Building decentralized apps using Ethereum.
-- **NFT Market**: A platform to buy and sell NFTs.
-- **Blockchain Explorer**: A tool for monitoring real-time blockchain data.
+- **BlockChainLearn**: Continuously updating with new technologies and business features, including full development, testing, and deployment code.
+- **FlightClubS4**: FlightClubS4 is a game project that cleverly combines various concepts and knowledge points.
 
 ## 💬 Let's Connect
 
-- **Email**: calvin123@example.com
-- **LinkedIn**: [Calvin's LinkedIn](https://linkedin.com/in/calvin123)
-- **Twitter**: [@Calvin123](https://twitter.com/Calvin123)
-
-## 📈 GitHub Stats
-![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calvin123&show_icons=true&hide_title=true)
+- **Email**: zhaochenyang1998@gmail.com

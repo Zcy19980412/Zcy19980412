@@ -1,6 +1,6 @@
 # Hi, I'm Calvin! 👋
 
-Hi 👋! I’m Calvin, a Smart Contract developer dedicated to the Ethereum ecosystem.
+Hi 👋! I’m Calvin, a Backend(Java,Golang) and Smart Contract developer dedicated to the Ethereum ecosystem.
 
 I have a deep passion for philosophy, and as I’ve witnessed humanity slowly reshaping the subconscious through consciousness to create a better world, I discovered blockchain technology, which can help in this journey.  So I consider building Web3 to be an incredibly meaningful endeavor, and I am committed to contributing to it.
 

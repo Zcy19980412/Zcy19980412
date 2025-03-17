@@ -6,7 +6,7 @@ I have a deep passion for philosophy, and as I’ve witnessed humanity slowly re
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Solidity, Java, Go, TypeScript
+- **Programming Languages**: Go, Solidity, Java, TypeScript
 - **Blockchain**: Ethereum, Smart Contracts, Web3.js, ether.js, Viem
 
 ## 🚀 Current Projects
